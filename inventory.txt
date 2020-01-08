@@ -1,0 +1,2 @@
+Make: Ford, Model: Mustang, Color: Black, Year: 1969, Mileage: 520900
+Make: Chevrolet, Model: Corvette, Color: Metalic Blue, Year: 1972, Mileage: 298038
